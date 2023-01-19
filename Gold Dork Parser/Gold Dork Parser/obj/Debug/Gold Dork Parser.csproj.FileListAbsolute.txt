@@ -1,0 +1,11 @@
+C:\Users\NEW LIFE\Desktop\Gold Dork Parser\Gold Dork Parser\bin\Debug\Gold Dork Parser.exe
+C:\Users\NEW LIFE\Desktop\Gold Dork Parser\Gold Dork Parser\bin\Debug\Gold Dork Parser.pdb
+C:\Users\NEW LIFE\Desktop\Gold Dork Parser\Gold Dork Parser\bin\Debug\Guna.UI.dll
+C:\Users\NEW LIFE\Desktop\Gold Dork Parser\Gold Dork Parser\bin\Debug\Leaf.xNet.dll
+C:\Users\NEW LIFE\Desktop\Gold Dork Parser\Gold Dork Parser\obj\Debug\Gold Dork Parser.csproj.CoreCompileInputs.cache
+C:\Users\NEW LIFE\Desktop\Gold Dork Parser\Gold Dork Parser\obj\Debug\Gold Dork Parser.csproj.CopyComplete
+C:\Users\NEW LIFE\Desktop\Gold Dork Parser\Gold Dork Parser\obj\Debug\Gold Dork Parser.exe
+C:\Users\NEW LIFE\Desktop\Gold Dork Parser\Gold Dork Parser\obj\Debug\Gold Dork Parser.pdb
+C:\Users\NEW LIFE\Desktop\Gold Dork Parser\Gold Dork Parser\obj\Debug\Gold_Dork_Parser.Main.resources
+C:\Users\NEW LIFE\Desktop\Gold Dork Parser\Gold Dork Parser\obj\Debug\Gold Dork Parser.csproj.GenerateResource.cache
+C:\Users\NEW LIFE\Desktop\Gold Dork Parser\Gold Dork Parser\obj\Debug\Gold Dork Parser.csproj.AssemblyReference.cache
